@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { RecoilRoot, useRecoilValue, useRecoilState } from 'recoil'
 import { jobAtom, meSelector, messagingAtom, networkAtom, notificationAtom } from './atoms'
 
